@@ -13,8 +13,7 @@ Skills: Nodejs / Express / REACT / JS / Java / HTML / CSS/ MongoDb / Mysql / sql
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullahhassan5)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahhassan5&show_icons=true)  
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/abdullahhassan5)  
 
