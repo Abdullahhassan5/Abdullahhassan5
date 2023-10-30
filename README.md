@@ -1,11 +1,26 @@
-### Hi there 👋, my name is Abdullah Hassan
-#### Software Engineer
-I have worked as a  Backend Developer also I've years of experiences on software development and testing life cycle. I like problem solving by writing code. I am always trying to learn different technologies.
+Greetings 👋, I'm Abdullah Hassan
+Experienced Software Engineer
+With a robust background in backend development, I bring forth a comprehensive skill set and hands-on understanding necessary to affect positive outcomes in this role. Throughout my career, I've accrued a multitude of skills including software development, testing life cycles, and a strong aptitude for problem-solving through coding. I am constantly on the pursuit of knowledge, eager to familiarize myself with the latest technologies and methodologies in the field.
 
-Skills: Nodejs / Express / REACT / JS / Java / HTML / CSS/ MongoDb / Mysql / sqlite 
- 
-- 📫 How to reach me: abdullahhassan213@gmail.com 
+Core Competencies:
 
+Backend Development
+Software Development Lifecycle
+Code Debugging & Problem-Solving
+Technological Proficiency
+Continuous Learning
+Technical Proficiency:
+
+Node.js, Express.js
+React.js, JavaScript
+Java, HTML, CSS
+MongoDB, MySQL, SQLite
+Should you wish to reach out for a discussion or any potential opportunities, feel free to connect with me via email: abdullahhassan213@gmail.com.
+
+Looking forward to exploring collaborative opportunities.
+
+Best Regards,
+Abdullah Hassan
   
   
 
