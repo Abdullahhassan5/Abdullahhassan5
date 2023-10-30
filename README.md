@@ -14,9 +14,13 @@ Continuous Learning
 Technical Proficiency:
 
 Node.js, Express.js
+
 React.js, JavaScript
+
 Java, HTML, CSS
+
 MongoDB, MySQL, SQLite
+
 Should you wish to reach out for a discussion or any potential opportunities, feel free to connect with me via email: abdullahhassan213@gmail.com.
 
 Looking forward to exploring collaborative opportunities.
