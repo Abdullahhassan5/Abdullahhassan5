@@ -13,7 +13,7 @@ Technological Proficiency
 Continuous Learning
 Technical Proficiency:
 
-Node.js, Express.js
+C++ , Node.js, Express.js
 
 React.js, JavaScript
 
